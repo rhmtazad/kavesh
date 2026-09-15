@@ -1,0 +1,5 @@
+print("Welcome to Kavesh.")
+print("What are you trying to learn or build?")
+query = input("Please enter your query: ")
+print(f"You entered: {query}")
+print(f"lets turn {query} into something you can build")
